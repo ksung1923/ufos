@@ -1,7 +1,7 @@
 # UFO Analysis
 
 ## Overview of UFO Analysis
-Dana is a data journalist from McMinnville, Oregon who is interested in UFO sightings. She has a JavaScript file filled with UFO sighting information. The file has information on countries, cities, states, and types of sightings. She wants to use Javascript to display the data as a table. The data set is large, so Dana wants to add filters for ease of use. Dana hopes to post her article online, so she wants to put everything together in a tidy HTML page. I was able to help Dana completely her article on UFO sightings using Savascript and HTML pages. 
+Dana is a data journalist from McMinnville, Oregon who is interested in UFO sightings. She has a JavaScript file filled with UFO sighting information. The file has information on countries, cities, states, and types of sightings. She wants to use Javascript to display the data as a table. The data set is large, so Dana wants to add filters for ease of use. Dana hopes to post her article online, so she wants to put everything together in a tidy HTML page. I was able to help Dana complete her article on UFO sightings using Savascript and HTML pages. 
 
 
 ## Results
