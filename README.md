@@ -24,7 +24,7 @@ Data Table and Filters:
 
 
 ## Summary
-The UFO Sighting HTML page displays the UFO sighting information is a useful and visually appealling way. However, one drawback of this website and data is that people who do not know anything about UFOs may not know what to search or how to filter the data. Here are two recommendations for further development that may enchance the website:
+The UFO Sighting HTML page displays the UFO sighting information in a useful and visually appealing way. However, one drawback of this website and data is that people who do not know anything about UFOs may not know what to search or how to filter the data. Here are two recommendations for further development that may enchance the website:
 
 1. We could add filters to the table column names so people will be able to filter by column to explore the data. People may not know much but after exploring the inital data, they may be able to find things they would like to search for. 
 2. To enhance the website's aggregation of information, we could o some outside search and find news articles that could be linked in the website for people who would like to read more about a UFO siting. 
